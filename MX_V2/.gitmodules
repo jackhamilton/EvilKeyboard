@@ -1,0 +1,6 @@
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
+[submodule "keyboard_parts.pretty"]
+	path = keyboard_parts.pretty
+	url = git@github.com:colemarkham/keyboard_parts.pretty.git
